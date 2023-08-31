@@ -1,5 +1,5 @@
 {
-    "use_database": false,
+    "use_database": true,
     "default_token": "7lc13-5MNT7BXeGOyCyaNQ",
     "apply_roles_to_worker_owners": [
 
